@@ -1,0 +1,13 @@
+.test
+{
+    width:100%;
+    height:70vh;
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+img{
+    width:200px;
+    height:200px;
+}
